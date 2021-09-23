@@ -1,3 +1,3 @@
-[submodule "pytorch-image-models"]
-	path = pytorch-image-models
+[submodule "pim"]
+	path = pim
 	url = https://github.com/ethan-jiang-1/pytorch-image-models.git
